@@ -1,0 +1,23 @@
+{
+  "name": "arena-of-the-damned",
+  "version": "1.0.0",
+  "description": "Arena of the Damned Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbalzano91/arena-of-the-damned.git"
+  },
+  "author": "Patricio Balzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbalzano91/arena-of-the-damned/issues"
+  },
+  "homepage": "https://github.com/pbalzano91/arena-of-the-damned#readme",
+  "dependencies": {
+    "pixi.js": "^5.0.0",
+    "uuid": "^3.3.2"
+  }
+}
